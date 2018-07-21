@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://csqcoder.github.io/
+url: https://csqcoder.github.io
 date_format: "ordinal"
 title: Coding
 subtitle: "Blog"

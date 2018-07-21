@@ -1,7 +1,4 @@
-_site/
-*.swp
-*.~vsd
-\#*\#
-*~
+
+
 .DS_Store
 Gemfile.lock
